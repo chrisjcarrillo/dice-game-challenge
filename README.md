@@ -16,4 +16,4 @@ This is a repo containing the first Dom Manipulation challenge from The Complete
 - Arrow Functions to store reusable code. 
 - Function containing a switch case to return the preferred document method.
 
-Original Code [https://gist.github.com/chrisjcarrillo/9ce6bb5690456112cf79274f7950e178]
+[Original Code](https://gist.github.com/chrisjcarrillo/9ce6bb5690456112cf79274f7950e178)
